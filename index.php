@@ -1,5 +1,5 @@
 <?php
 
-echi "hi";
+echo "hi";
 
 ?>
